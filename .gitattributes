@@ -1,0 +1,2 @@
+# Unity editor window layout (YAML) misdetected as Wolfram Language
+*.wlt linguist-detectable=false
